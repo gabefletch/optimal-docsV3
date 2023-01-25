@@ -66,4 +66,10 @@ If you have a different version, follow these steps:
 * We'll need to uninstall all YouTube Music updates from your device using Google Play.&#x20;
 * Use the link below to open YouTube Music in Google Play and tap "Uninstall" on the left.&#x20;
 
-Open YouTube Music in Google Play&#x20;
+****[**Tap to Open YouTube Music in Google Play**](market://details?id=com.google.android.apps.youtube.music)&#x20;
+
+### Installing v5.39.52
+
+Tap the button below to download YT Music v5.39.52 directly (sourced from APKMirror):
+
+{% file src="../../.gitbook/assets/com.google.android.apps.youtube.music_5.39.52-53952230_minAPI21(armeabi-v7a)(nodpi)_apkmirror.com.apk" %}
