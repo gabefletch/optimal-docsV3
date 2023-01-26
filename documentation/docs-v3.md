@@ -40,3 +40,21 @@ Where <mark style="color:green;">green text</mark> tells Google Play to show an 
 | Reddit         | market://details?id=com.reddit.frontpage                  |
 
 Other app IDs can be found by going to the app's respective page on the Google Play site (play.google.com) and finding the id=\<appid> flag in its URL. [**ReVanced Manager**](../guides/android-guides/installing-revanced-manager.md) also displays the app IDs of the apps it supports in the Patcher menu.&#x20;
+
+## Optimal Archive Links
+
+Certain guide pages on Docs v3 refer to downloading an app from "Optimal Archive" which is Optimal Team's official Google Drive directory that includes archives of the recommended versions of apps that are needed for patching apps with[ **ReVanced Manager**](../guides/android-guides/installing-revanced-manager.md) on Android.&#x20;
+
+Optimal Archive links are powered by dub.sh, like all links for Optimal made after v10. \
+They use the following syntax:\
+dub.sh/optdocs-get-\<app>
+
+Optimal Archive links update their app target version automatically should the recommended version displayed by [**ReVanced Manager**](../guides/android-guides/installing-revanced-manager.md) change.&#x20;
+
+| App                      | Optimal Archive Link                                             |
+| ------------------------ | ---------------------------------------------------------------- |
+| YouTube _v17.49.37_      | [dub.sh/optdocs-get-yt](https://dub.sh/optdocs-get-yt)           |
+| YouTube Music _v5.39.52_ | [dub.sh/optdocs-get-ytmusic](https://dub.sh/optdocs-get-ytmusic) |
+| TikTok vXXX              | dub.sh/optdocs-get-tik                                           |
+| Reddit vXXX              | dub.sh/optdocs-get-reddit                                        |
+

@@ -70,6 +70,6 @@ If you have a different version, follow these steps:
 
 ### Installing v5.39.52
 
-Tap the button below to download YT Music v5.39.52 directly (sourced from APKMirror):
+Tap the link below to download the version of YouTube Music needed for patching:
 
-{% file src="../../.gitbook/assets/com.google.android.apps.youtube.music_5.39.52-53952230_minAPI21(armeabi-v7a)(nodpi)_apkmirror.com.apk" %}
+Download YouTube Music from Optimal Archive
