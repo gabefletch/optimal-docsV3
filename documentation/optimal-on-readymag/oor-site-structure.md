@@ -8,7 +8,7 @@ This is a documentation page for **Optimal on Readymag (v10.0+)**
 
 Unlike Optimal on Carrd (vTR-9.3.1.6 and below), the site is not split across different primary domains but uses several /slugs like most multi-page websites.&#x20;
 
-## Subdomains and Redirects Chart&#x20;
+## Subdomains and Shortlinks Chart&#x20;
 
 {% hint style="warning" %}
 [OoR Legal Terms](oor-legal-terms.md) - URLs in this chart are defined as Optimal Domains.
