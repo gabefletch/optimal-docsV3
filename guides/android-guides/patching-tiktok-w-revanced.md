@@ -1,2 +1,0 @@
-# 🌊 Patching TikTok w/ ReVanced
-

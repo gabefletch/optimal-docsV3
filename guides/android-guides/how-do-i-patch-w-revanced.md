@@ -12,7 +12,7 @@ This page assumes you already have [**ReVanced Manager**](installing-revanced-ma
 
 * Then tap "Select an application"&#x20;
 * Tap the app you want to modify
-* Make sure that the version listed under "Current" matches the version listed under "Recommended" or your patches might not apply correctly, or at all. Keep in mind some apps may say "any" under recommended, in which case your current version doesn't matter. <mark style="color:red;">If your version does not match, go to the guide for the app you want to patch to get instructions on how to get the correct app version.</mark> \[[**YouTube**](patching-youtube-w-revanced.md)] <mark style="color:red;"></mark> \[[**YouTube Music**](patching-yt-music-w-revanced.md)] \[[**TikTok**](patching-tiktok-w-revanced.md)] \[**Reddit**]&#x20;
+* Make sure that the version listed under "Current" matches the version listed under "Recommended" or your patches might not apply correctly, or at all. Keep in mind some apps may say "any" under recommended, in which case your current version doesn't matter. <mark style="color:red;">If your version does not match, go to the guide for the app you want to patch to get instructions on how to get the correct app version.</mark> \[[**YouTube**](patching-youtube-w-revanced.md)] <mark style="color:red;"></mark> \[[**YouTube Music**](patching-yt-music-w-revanced.md)] \[[**TikTok**](broken-reference)] \[**Reddit**]&#x20;
 * Tap "Select patches"
 * Tap "Recommended" under the search bar&#x20;
 * Tap the "Done" button in the lower right&#x20;
