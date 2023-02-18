@@ -2,7 +2,7 @@
 
 ## v10.0
 
-MM/DD/YY
+2/18/2022
 
 * Initial launch on Readymag.
 
