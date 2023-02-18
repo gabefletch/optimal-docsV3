@@ -5,8 +5,6 @@ coverY: 0
 
 # 👋 Welcome to Optimal Docs
 
-> <mark style="color:yellow;">Please keep in mind some pages may abruptly end or have noticably missing elements. This site is still having content actively added to it for the release of Optimal v10. Please contact</mark>[ <mark style="color:red;">****</mark>** Gabe Fletcher**](https://dub.sh/gabe) <mark style="color:yellow;">directly for questions you cannot find the answers to here.</mark>&#x20;
-
 Optimal Docs answers all your questions about the Optimal project by Gabe Fletcher.\
 Start by clicking a page to the left (or tapping in the upper left on a mobile device).
 
