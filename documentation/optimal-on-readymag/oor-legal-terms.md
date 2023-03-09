@@ -44,6 +44,10 @@ The Readymag privacy policy can be viewed [here](https://forum.readymag.com/priv
 Last updated **Monday, January 9th, 2023.**&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+Additional information was added to the [Optimal Domains list](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/oor-site-structure#subdomains-and-redirects-chart) on **Thursday, March 9th, 2023.**
+{% endhint %}
+
 By accessing an Optimal domain, as defined [here](oor-site-structure.md#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
 
 Not doing so may result in termination of a user's access to Optimal domains via IP address blacklisting or any method seen suitable by the domain owner.&#x20;

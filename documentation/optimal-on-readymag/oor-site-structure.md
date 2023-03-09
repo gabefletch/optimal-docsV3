@@ -13,10 +13,10 @@ Unlike Optimal on Carrd (vTR-9.3.1.6 and below), the site is not split across di
 Shortlinks are visually shortened URLs powered by the dub.sh shortening service that redirect users to the domain suggested by the shortlink. For example, the shortlink for Optimal Docs is dub.sh/optimaldocs
 
 {% hint style="warning" %}
-[OoR Legal Terms](oor-legal-terms.md) - URLs in this chart are defined as Optimal Domains.
+****[**OoR Legal Terms**](oor-legal-terms.md) **** - URLs in this chart are defined as **Optimal Domains**.
 {% endhint %}
 
-| Name                | URLs                                                                                                                                                                                                                                                                                                                                         |
+| Name                | URLs; Shortlinks                                                                                                                                                                                                                                                                                                                             |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Splashpage**      | <p><strong>Full URL:</strong><br><a href="https://readymag.com/optimal/splash">readymag.com/optimal/splash</a><a href="https://readymag.com/optimal/splash"><br></a><strong>Shortlink:</strong><br><strong></strong><a href="https://dub.sh/optimal">dub.sh/optimal</a></p>                                                                  |
 | **Android Mods**    | <p><strong>Full URL:</strong><br>readymag.com/optimal/splash/android<br><strong>Shortlink:</strong><br><strong></strong>N/A</p>                                                                                                                                                                                                              |
