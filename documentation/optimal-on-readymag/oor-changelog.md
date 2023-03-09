@@ -6,7 +6,7 @@
 
 * Pushes Bloons TD 6 to v35.2 via [Mobilism source](https://forum.mobilism.me/viewtopic.php?f=456\&t=5167328\&hilit=Bloons).
 
-:x:No snapshot available; no major visual changes made.
+:x: No snapshot available; no major visual changes made.
 
 ## v10.0.1
 
@@ -15,7 +15,7 @@
 * Makes buttons and redirects easier to tap by utilizing "hidden" buttons instead of invisible hyperlinks
 * Changes Optimal Docs button text from "Read our Wiki" to "Get Help"
 
-:x:No snapshot available; no major visual changes made.
+:x: No snapshot available; no major visual changes made.
 
 ## v10.0
 
