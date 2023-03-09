@@ -18,6 +18,7 @@
   * [🔧 How Do I Patch w/ ReVanced?](guides/android-guides/how-do-i-patch-w-revanced.md)
   * [📺 Patching YouTube w/ ReVanced](guides/android-guides/patching-youtube-w-revanced.md)
   * [🔊 Patching YT Music w/ ReVanced](guides/android-guides/patching-yt-music-w-revanced.md)
+* [🍏 iOS Guides](guides/ios-guides.md)
 
 ## Documentation
 
