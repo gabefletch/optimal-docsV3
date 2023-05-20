@@ -5,10 +5,6 @@ coverY: 0
 
 # 👋 Welcome to Optimal Docs
 
-{% hint style="danger" %}
-**Optimal Docs will have a new domain soon. We're upgrading Optimal Docs to v3.1 to be even faster and more useful. Don't worry, all the same pages and articles will remain, but with a faster backend and simplified interface.**
-{% endhint %}
-
 Optimal Docs answers all your questions about the Optimal project by Gabe Fletcher.\
 Start by clicking a page to the left (or tapping in the upper left on a mobile device).
 
