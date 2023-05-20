@@ -1,5 +1,13 @@
 # 📗 OoR Changelog
 
+## v10.0.3
+
+5/19/2023
+
+* Updates site to new logo&#x20;
+
+:frame\_photo: [View a snapshot of this version.](https://github.com/gabefletch/optimal-snapshots/assets/38300939/6435ab82-c880-46f9-8c14-2877470809ec)
+
 ## v10.0.2
 
 3/9/2023
