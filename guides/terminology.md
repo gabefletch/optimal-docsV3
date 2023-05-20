@@ -5,10 +5,10 @@
 {% tabs %}
 {% tab title="Android" %}
 **APK**\
-****This is the file extension for an Android app.&#x20;
+This is the file extension for an Android app.&#x20;
 
 **OBB**\
-****This is the file extension for a local app license on Android. Optimal doesn't use these and instead uses mods to remove the app's ability to check for a license at all (in the case of some apps).&#x20;
+This is the file extension for a local app license on Android. Optimal doesn't use these and instead uses mods to remove the app's ability to check for a license at all (in the case of some apps).&#x20;
 
 **Google Play**\
 Android's built in app store. Uses the market:// URL scheme.&#x20;
@@ -24,7 +24,7 @@ Refers to modifying your Android device in order to gain root access to the oper
 This is the file extension for an iOS app. It can be installed using AltStore.&#x20;
 
 **AltStore**\
-****The tool used by Optimal to manually install IPA files and other apps to an iPhone.&#x20;
+The tool used by Optimal to manually install IPA files and other apps to an iPhone.&#x20;
 
 **AltServer**
 

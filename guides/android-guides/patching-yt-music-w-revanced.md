@@ -5,8 +5,8 @@ This page assumes you aleady have [**ReVanced Manager**](installing-revanced-man
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> <mark style="color:orange;"></mark> \
-****[**How to Install Unknown Apps**](installing-unknown-apps.md)****
+<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> \
+[**How to Install Unknown Apps**](installing-unknown-apps.md)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -40,7 +40,7 @@ ReVanced can modify YouTube Music to include 12 patches:
 * **Remove Screenshot Restriction** 0.0.1\
   Removes the restriction of taking screenshots&#x20;
 * **Tastebuilder Remover** 0.0.1\
-  ****Removes the "Tell us which artists you like" card from the homescreen
+  Removes the "Tell us which artists you like" card from the homescreen
 * **Upgrade Button Remover** 0.0.1\
   Removes the upgrade tab from the pivot bar
 
@@ -58,7 +58,7 @@ On most Android devices this can be done by:
   (you may also have a button that simply says "app info"
 * If the version is not displayed already, tap "Advanced" and then scroll to the bottom.
 
-If your YouTube Music version is <mark style="color:red;">**v5.39.52**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> then skip to the <mark style="color:red;"></mark> <mark style="color:yellow;">yellow text</mark> <mark style="color:red;"></mark> at the bottom of this page.\
+If your YouTube Music version is <mark style="color:red;">**v5.39.52**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of this page.\
 <mark style="color:red;">We need this exact version to be installed!</mark>&#x20;
 
 If you have a different version, follow these steps:
@@ -66,7 +66,7 @@ If you have a different version, follow these steps:
 * We'll need to uninstall all YouTube Music updates from your device using Google Play.&#x20;
 * Use the link below to open YouTube Music in Google Play and tap "Uninstall" on the left.&#x20;
 
-****[**Tap to Open YouTube Music in Google Play**](market://details?id=com.google.android.apps.youtube.music)&#x20;
+[**Tap to Open YouTube Music in Google Play**](market://details?id=com.google.android.apps.youtube.music)&#x20;
 
 ### Installing v5.39.52
 

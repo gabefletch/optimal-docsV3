@@ -16,9 +16,8 @@ Optimal is an easily accessible website designed to give its users access to spe
 
 ### Learn More About Optimal&#x20;
 
-* ****[**Optimal History**](optimal-history.md) ****&#x20;
-* ****[**Optimal Team**](optimal-team.md)****
+* [**Optimal History**](optimal-history.md)&#x20;
+* [**Optimal Team**](optimal-team.md)
 
 > \*Attributed from public mobile device market share data from Apple Inc. and Google.
 
-****

@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/docsv3-banner.png
+cover: .gitbook/assets/docs-3.1-wordmark-concept.jpg
 coverY: 0
 ---
 

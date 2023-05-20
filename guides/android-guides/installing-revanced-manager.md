@@ -5,8 +5,8 @@ ReVanced Manager is an Android mod that adds custom patches to multiple popular 
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> <mark style="color:orange;"></mark> \
-****[How to Install Unknown Apps](installing-unknown-apps.md)
+<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> \
+[How to Install Unknown Apps](installing-unknown-apps.md)
 {% endhint %}
 
 ### Pre-requisites
@@ -21,7 +21,7 @@ While Spotify has patches available for it on ReVanced Manager it is highly reco
 
 #### Step 1
 
-****[**Tap here**](https://github.com/revanced/revanced-manager/releases/download/v0.0.52/revanced-manager-v0.0.52.apk) to download the latest ReVanced Manager APK from GitHub&#x20;
+[**Tap here**](https://github.com/revanced/revanced-manager/releases/download/v0.0.52/revanced-manager-v0.0.52.apk) to download the latest ReVanced Manager APK from GitHub&#x20;
 
 #### Step 2
 
@@ -31,8 +31,8 @@ Open the APK file you downloaded in the last step and follow your device's promp
 
 Now that you have ReVanced Manager, follow these guides to setup your device for patching supported apps with premium features:
 
-* ****[**YouTube**](patching-youtube-w-revanced.md)****
-* ****[**YouTube Music** ](patching-yt-music-w-revanced.md)****
+* [**YouTube**](patching-youtube-w-revanced.md)
+* [**YouTube Music** ](patching-yt-music-w-revanced.md)
 * Twitch&#x20;
 * TikTok
 * Twitter
@@ -176,7 +176,7 @@ ReVanced can modify YouTube Music to include 12 patches:
 * **Remove Screenshot Restriction** 0.0.1\
   Removes the restriction of taking screenshots&#x20;
 * **Tastebuilder Remover** 0.0.1\
-  ****Removes the "Tell us which artists you like" card from the homescreen
+  Removes the "Tell us which artists you like" card from the homescreen
 * **Upgrade Button Remover** 0.0.1\
   Removes the upgrade tab from the pivot bar
 {% endtab %}
@@ -210,7 +210,7 @@ ReVanced can modify TikTok to include 10 patches:
 ReVanced can modify Twitch to include 7 patches:
 
 * **Block Audio Ads** 0.0.1\
-  ****Blocks audio ads in streams and VODs
+  Blocks audio ads in streams and VODs
 * **Block Embedded Ads** 0.0.1\
   Blocks embedded stream ads using services like TTV.lol or PurpleAdBlocker
 * **Block Video Ads** 0.0.1\

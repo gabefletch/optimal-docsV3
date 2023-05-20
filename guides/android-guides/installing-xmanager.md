@@ -5,8 +5,8 @@ xManager is an Android mod for Spotify Premium.&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> <mark style="color:orange;"></mark> \
-****[How to Install Unknown Apps](installing-unknown-apps.md)
+<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> \
+[How to Install Unknown Apps](installing-unknown-apps.md)
 {% endhint %}
 
 #### Step 1
@@ -28,7 +28,7 @@ xManager is an Android mod for Spotify Premium.&#x20;
 **Step 4**
 
 * Tap a version to install it.\
-  \- If unsure, tap the uppermost <mark style="color:red;">**\[LATEST]**</mark>** ** option. ****&#x20;
+  \- If unsure, tap the uppermost <mark style="color:red;">**\[LATEST]**</mark> option.&#x20;
 * Then tap "Download" when prompted.&#x20;
 
 **Step 5**

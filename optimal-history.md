@@ -96,7 +96,11 @@ With the release of a very experimental v6.0 release on Carrd, Optimal had a dra
 
 v7.0 was released about 3 months after the v6.0 end of life period. It featured a completely reformatted UI and began preliminary steps to be able to integrate full iOS support via AltStore and AltServer by Riley Testut.&#x20;
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/optimal-wordmark-9-gr.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Business As Usual - v8.0 and v9.0
 
