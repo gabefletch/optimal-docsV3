@@ -1,5 +1,13 @@
 # 📗 OoR Changelog
 
+## v10.0.4
+
+5/22/2023
+
+* Changes navigation styling for top back buttons on Android and iOS mod selection pages to fit with new Optimal branding and to allow for easier use by moving button to the center of the screen
+
+:x: No snapshot available; no major visual changes made.
+
 ## v10.0.3
 
 5/19/2023
