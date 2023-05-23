@@ -29,19 +29,19 @@ It is entirely the user's choice to engage in any activity that involves modifyi
 ## OoR Privacy Policy&#x20;
 
 {% hint style="success" %}
-Last updated **Tuesday, January 24th, 2023.**&#x20;
+Last updated **Tuesday, May 23rd, 2023.**&#x20;
 {% endhint %}
 
 Optimal collects no user data outside of the required data collected by our host, Readymag.&#x20;
 
-Optimal developers and contributors have no access to this aforementioned data. Optimal may occasionally request data to be voluntarily expressed by users in a form, but collects no data without their prior knowledge or consent, with the exception of browser cookies.&#x20;
+Optimal developers and contributors have no access to this aforementioned data. Optimal may occasionally request data to be voluntarily expressed by users in a form, but collects no data without their prior knowledge or consent, with the exception of browser cookies that allow Optimal sites to function. User data contained within cookies are not shared with any third party under any circumstances.
 
 The Readymag privacy policy can be viewed [here](https://forum.readymag.com/privacy).&#x20;
 
 ## OoR Terms of Service
 
 {% hint style="success" %}
-Last updated **Monday, January 9th, 2023.**&#x20;
+Last updated **Tuesday, May 23rd, 2023.**&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -50,4 +50,6 @@ Additional information was added to the [Optimal Domains list](https://optimaldo
 
 By accessing an Optimal domain, as defined [here](oor-site-structure.md#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
 
-Not doing so may result in termination of a user's access to Optimal domains via IP address blacklisting or any method seen suitable by the domain owner.&#x20;
+Not doing so may result in termination of a user's access to Optimal domains via IP address blacklisting or any method seen suitable by the domain owner. \
+\
+Users are inherently subject to the terms of service, privacy policy, and any other legal guidelines established by the legal entities that own modified products accessible via Optimal. Some projects accessible via Optimal also have their own licenses that users are inherently subject to should they decide to use said projects.&#x20;
