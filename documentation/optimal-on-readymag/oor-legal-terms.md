@@ -14,7 +14,7 @@ Optimal, hosted on Readymag, abbreviated to "OoR," is a website developed by [Ga
 
 All visual content on the site was produced by Gabe Fletcher, with the exception of copyrighted logos/icons, such as the YouTube logo, Twitch logo, and etc.&#x20;
 
-The downloads provided on the Optimal site redirect users to a respective third party site that is not in affiliation with Optimal nor are they an Optimal URL. Documentation for what is considered an Optimal URL, also referred to as an Optimal Domain, can be found [here](oor-site-structure.md#subdomains-and-redirects-chart). Optimal was designed with the purpose of circumventing a user's need to manually browse ad-ridden sites for modified apps, and provides a direct download to such software using content delivery network parsing.&#x20;
+The downloads provided on the Optimal site redirect users to a respective third party site that is not in affiliation with Optimal nor are they an Optimal URL. Documentation for what is considered an Optimal URL, also referred to as an Optimal Domain, can be found [here](oor-site-structure/#subdomains-and-redirects-chart). Optimal was designed with the purpose of circumventing a user's need to manually browse ad-ridden sites for modified apps, and provides a direct download to such software using content delivery network parsing.&#x20;
 
 To reiterate, absolutely none of the content that can be accessed via Optimal has been created by Optimal contributors or its developer Gabe Fletcher, as stipulated by each app descriptor on the Optimal site.&#x20;
 
@@ -48,7 +48,7 @@ Last updated **Tuesday, May 23rd, 2023.**&#x20;
 Additional information was added to the [Optimal Domains list](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/oor-site-structure#subdomains-and-redirects-chart) on **Thursday, March 9th, 2023.**
 {% endhint %}
 
-By accessing an Optimal domain, as defined [here](oor-site-structure.md#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
+By accessing an Optimal domain, as defined [here](oor-site-structure/#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
 
 Not doing so may result in termination of a user's access to Optimal domains via IP address blacklisting or any method seen suitable by the domain owner. \
 \

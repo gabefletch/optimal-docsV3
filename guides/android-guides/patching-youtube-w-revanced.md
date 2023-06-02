@@ -5,8 +5,8 @@ This page assumes you already have [**ReVanced Manager**](installing-revanced-ma
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> <mark style="color:orange;"></mark> \
-****[**How to Install Unknown Apps**](installing-unknown-apps.md)****
+<mark style="color:red;">Make sure your device is ready to install unknown apps before following these steps. Otherwise you won't be able to install apps from Optimal!</mark> \
+[**How to Install Unknown Apps**](installing-unknown-apps.md)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -138,7 +138,7 @@ On most Android devices this can be done by:
   (you may also have a button that simply says "app info"
 * If the version is not displayed already, tap "Advanced" and then scroll to the bottom.
 
-If your YouTube version is <mark style="color:red;">**v17.49.37**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of the page.\
+If your YouTube version is <mark style="color:red;">**`v18.19.35`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of the page.\
 <mark style="color:red;">We need this exact version to be installed!</mark>
 
 If you have a different version, follow these steps:
@@ -146,13 +146,13 @@ If you have a different version, follow these steps:
 * We'll need to uninstall all YouTube updates from your device using Google Play.&#x20;
 * Use the link below to open YouTube in Google Play and tap the "Uninstall" button on the left.
 
-****[**Tap to Open YouTube in Google Play**](market://details?id=com.google.android.youtube)****
+[**Tap to Open YouTube in Google Play**](market://details?id=com.google.android.youtube)
 
-### Installing v17.49.37:
+### Installing `v18.19.35`:
 
-This version of YouTube can be downloaded directly from APKMirror using the link below:\
-\
-[**Tap to Download** ](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=4256571\&key=e9217acf2eb6908ada874dc1f2b78d07f6acc894\&forcebaseapk=true)(from APKMirror)
+This version of YouTube can be downloaded directly using the link below:
+
+{% embed url="https://github.com/gabefletch/ReVanced-BaseApps/releases/download/YT-v18.19.35/com.google.android.youtube_18.19.35-1537727936_minAPI26.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk" %}
 
 * Follow your device's UI prompts to download and install the app.
 * Whenever in doubt, tap "Install."
