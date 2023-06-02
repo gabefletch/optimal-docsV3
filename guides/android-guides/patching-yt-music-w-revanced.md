@@ -58,7 +58,7 @@ On most Android devices this can be done by:
   (you may also have a button that simply says "app info"
 * If the version is not displayed already, tap "Advanced" and then scroll to the bottom.
 
-If your YouTube Music version is <mark style="color:red;">**v5.39.52**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of this page.\
+If your YouTube Music version is <mark style="color:red;">**`v5.39.52`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of this page.\
 <mark style="color:red;">We need this exact version to be installed!</mark>&#x20;
 
 If you have a different version, follow these steps:
@@ -68,8 +68,8 @@ If you have a different version, follow these steps:
 
 [**Tap to Open YouTube Music in Google Play**](market://details?id=com.google.android.apps.youtube.music)&#x20;
 
-### Installing v5.39.52
+### Installing `v5.39.52`
 
 Tap the link below to download the version of YouTube Music needed for patching:
 
-Download YouTube Music from Optimal Archive
+[Download `v5.39.52` from Optimal's GitHub Repository](https://github.com/gabefletch/ReVanced-BaseApps/releases/download/M-v5.39.52/com.google.android.apps.youtube.music\_5.39.52-53952230\_minAPI21.armeabi-v7a.nodpi.\_apkmirror.com.apk)
