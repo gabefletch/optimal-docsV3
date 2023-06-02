@@ -152,7 +152,7 @@ If you have a different version, follow these steps:
 
 This version of YouTube can be downloaded directly using the link below:
 
-{% embed url="https://github.com/gabefletch/ReVanced-BaseApps/releases/download/YT-v18.19.35/com.google.android.youtube_18.19.35-1537727936_minAPI26.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk" %}
+[Download YouTube `v18.19.35` via Optimal's GitHub Repository](https://github.com/gabefletch/ReVanced-BaseApps/releases/download/YT-v18.19.35/com.google.android.youtube\_18.19.35-1537727936\_minAPI26.arm64-v8a.armeabi-v7a.x86.x86\_64.nodpi.\_apkmirror.com.apk)
 
 * Follow your device's UI prompts to download and install the app.
 * Whenever in doubt, tap "Install."
