@@ -27,5 +27,5 @@ You've successfully patched your app!&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-If you're having issues with your patched YouTube or YouTube Music apps, you may need to install a utility app called Vanced MicroG. You can download the APK [**here**](https://github.com/TeamVanced/VancedMicroG/releases).
+If you're having issues with your patched YouTube or YouTube Music apps, you may need to install a utility app called Vanced MicroG. You can download the APK [**here**](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk).
 {% endhint %}
