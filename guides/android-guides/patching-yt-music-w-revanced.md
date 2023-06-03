@@ -1,7 +1,7 @@
 # 🔊 Patching YT Music w/ ReVanced
 
 {% hint style="info" %}
-This page assumes you aleady have [**ReVanced Manager**](installing-revanced-manager.md) installed.&#x20;
+This page assumes you already have [**ReVanced Manager**](installing-revanced-manager.md) installed.&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -48,12 +48,24 @@ ReVanced can modify YouTube Music to include 12 patches:
 
 ### Before we start...
 
-Make sure you already have ReVanced Manager installed. See how [**here**](installing-revanced-manager.md).&#x20;
+Make sure you already have ReVanced Manager installed. See how [**here**](installing-revanced-manager.md). \
+You also need to have a specific version of YouTube Music installed, this is covered in the guide.
 
+We need to see what version of YouTube is installed on your device. \
+We can do this by:
 
+* Open ReVanced Manager
+* Tap "Patcher" on the bottom menu&#x20;
+* Tap "Select an application"
+* Tap "YouTube Music" from the list.
 
-If your YouTube Music version is <mark style="color:red;">**`v5.39.52`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of this page.\
-<mark style="color:red;">We need this exact version to be installed!</mark>&#x20;
+Look for what version appears next to "Suggested." If it is <mark style="color:red;">**`v5.39.52`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of the page.\
+<mark style="color:red;">We need this exact version to be installed!</mark>
+
+If you have a different version, follow these steps:
+
+* We'll need to uninstall all YouTube updates from your device using Google Play.&#x20;
+* Use the link below to open YouTube in Google Play and tap the "Uninstall" button on the left.
 
 If you have a different version, follow these steps:
 
