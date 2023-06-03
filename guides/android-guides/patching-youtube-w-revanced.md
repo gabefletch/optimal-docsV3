@@ -129,16 +129,17 @@ ReVanced can modify YouTube to include 52 patches:
 ### Before we start...
 
 Make sure you already have ReVanced Manager installed. See how [**here**](installing-revanced-manager.md). \
+You also need to have a specific version of YouTube Music already installed, this is covered in the guide.\
 \
 We need to see what version of YouTube is installed on your device. \
-On most Android devices this can be done by:
+We can do this by:
 
-* Tapping and holding the YouTube app on your homescreen
-* Tapping the ⓘ that appears\
-  (you may also have a button that simply says "app info"
-* If the version is not displayed already, tap "Advanced" and then scroll to the bottom.
+* Open ReVanced Manager
+* Tap "Patcher" on the bottom menu&#x20;
+* Tap "Select an application"
+* Tap "YouTube" from the list.
 
-If your YouTube version is <mark style="color:red;">**`v18.19.35`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of the page.\
+Look for what version appears next to "Suggested." If it is <mark style="color:red;">**`v18.19.35`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of the page.\
 <mark style="color:red;">We need this exact version to be installed!</mark>
 
 If you have a different version, follow these steps:

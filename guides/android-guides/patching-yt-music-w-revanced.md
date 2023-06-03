@@ -50,13 +50,7 @@ ReVanced can modify YouTube Music to include 12 patches:
 
 Make sure you already have ReVanced Manager installed. See how [**here**](installing-revanced-manager.md).&#x20;
 
-We need to see what version of YouTube Music is installed on your device. \
-On most Android devices this can be done by:
 
-* Tapping and holding the YouTube Music app on your homescreen&#x20;
-* Tapping the ⓘ that appears\
-  (you may also have a button that simply says "app info"
-* If the version is not displayed already, tap "Advanced" and then scroll to the bottom.
 
 If your YouTube Music version is <mark style="color:red;">**`v5.39.52`**</mark> then skip to the <mark style="color:yellow;">yellow text</mark> at the bottom of this page.\
 <mark style="color:red;">We need this exact version to be installed!</mark>&#x20;
