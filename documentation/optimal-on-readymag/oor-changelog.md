@@ -1,5 +1,9 @@
 # 📗 OoR Changelog
 
+{% hint style="info" %}
+OoR is the abbreviation for Optimal on Readymag.
+{% endhint %}
+
 ## v10.0.4
 
 5/22/2023
