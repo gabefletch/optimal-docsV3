@@ -29,14 +29,11 @@ Open the APK file you downloaded in the last step and follow your device's promp
 
 ### Install an App w/ ReVanced Manager Patches
 
-Now that you have ReVanced Manager, follow these guides to setup your device for patching supported apps with premium features:
+Now that you have ReVanced Manager, follow this guide to setup your device for patching supported apps with premium features:
 
-* [**YouTube**](patching-youtube-w-revanced.md)
-* [**YouTube Music** ](patching-yt-music-w-revanced.md)
-* Twitch&#x20;
-* TikTok
-* Twitter
-* Reddit
+{% content-ref url="how-do-i-patch-w-revanced.md" %}
+[how-do-i-patch-w-revanced.md](how-do-i-patch-w-revanced.md)
+{% endcontent-ref %}
 
 You can view a full list of patches available for each app and their functions below:
 
