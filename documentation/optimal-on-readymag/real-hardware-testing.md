@@ -26,4 +26,4 @@ Real-hardware testing for Android on versions 9.3.1.6 and below took place on mu
 
 ### For iPhone (iOS)
 
-Real-hardware testing never took place for iOS for Optimal versions 9.3.1.6 and below. Testing on v10 and above occured in the same manner as v11 found above.&#x20;
+Real-hardware testing never took place for iOS for Optimal versions 9.3.1.6 and below. Testing on v10 and above occurred in the same manner as v11 found above.&#x20;
