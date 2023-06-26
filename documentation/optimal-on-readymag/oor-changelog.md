@@ -4,6 +4,10 @@
 OoR is the abbreviation for Optimal on Readymag.
 {% endhint %}
 
+## v10.0.4-tr
+
+* This version string does not appear on any version of Optimal but refers to the transitionary landing page between v10.0.4 and v11
+
 ## v10.0.4
 
 5/22/2023
