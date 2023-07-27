@@ -32,7 +32,7 @@ Optimal collects no user data outside of the required data collected by our host
 
 Optimal developers and contributors have no access to this aforementioned data. Optimal may occasionally request data to be voluntarily expressed by users in a form, but collects no data without their prior knowledge or consent, with the exception of browser cookies that allow Optimal sites to function. User data contained within cookies are not shared with any third party under any circumstances.
 
-The Webflow privacy policy can be viewed here.&#x20;
+The Webflow privacy policy can be viewed at [https://webflow.com/legal/privacy](https://webflow.com/legal/privacy).
 
 ## Optimal Terms of Service
 
