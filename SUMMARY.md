@@ -24,8 +24,8 @@
 ## Documentation
 
 * [🟢 Optimal on Readymag](documentation/optimal-on-readymag/README.md)
-  * [📗 OoR Changelog](documentation/optimal-on-readymag/oor-changelog.md)
   * [⚖ Optimal Legal Terms](documentation/optimal-on-readymag/oor-legal-terms.md)
+  * [📗 OoR Changelog](documentation/optimal-on-readymag/oor-changelog.md)
   * [🚧 OoR Site Structure](documentation/optimal-on-readymag/oor-site-structure.md)
   * [📲 Real-Hardware Testing](documentation/optimal-on-readymag/real-hardware-testing.md)
 * [🔵 Docs v3](documentation/docs-v3.md)
