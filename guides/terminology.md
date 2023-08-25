@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Android" %}
-**APK**\
+**APK or .apk**\
 This is the file extension for an Android app.&#x20;
 
 **OBB**\
@@ -19,15 +19,13 @@ Refers to modifying your Android device in order to gain root access to the oper
 {% endtab %}
 
 {% tab title="iOS" %}
-**IPA**
-
+**IPA or .ipa**\
 This is the file extension for an iOS app. It can be installed using AltStore.&#x20;
 
 **AltStore**\
 The tool used by Optimal to manually install IPA files and other apps to an iPhone.&#x20;
 
-**AltServer**
-
+**AltServer**\
 The application that installs and subsequently communicates with AltStore on a user's iPhone in order to then sign and install more custom apps, as well as re-sign them every seven days.&#x20;
 {% endtab %}
 {% endtabs %}
