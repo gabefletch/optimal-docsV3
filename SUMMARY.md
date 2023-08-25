@@ -7,6 +7,7 @@
 * [ℹ What is Optimal?](what-is-optimal.md)
 * [📖 Optimal History](optimal-history.md)
 * [🛠 Optimal Team](optimal-team.md)
+* [📜 Docs v3 Changes](docs-v3-changes.md)
 
 ## Guides
 
