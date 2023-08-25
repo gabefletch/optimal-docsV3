@@ -1,6 +1,6 @@
 # ⚖ Optimal Legal Terms
 
-<mark style="color:yellow;">Please note that the next major version of Optimal (v11) is under active development. These legal terms refer to Optimal as it is in a full release state.</mark>
+<mark style="color:yellow;">Please note that the next major version of Optimal (v11) is under active development. Some portions of these terms only pertain to Optimal as it is in a full release state.</mark>
 
 ## Optimal General Disclaimer
 
