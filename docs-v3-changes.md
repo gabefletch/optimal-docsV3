@@ -9,6 +9,10 @@ This changelog was started on 25 August 2023 and has no data prior to this date.
 Docs v3 does not use sequential versioning for every update like the main Optimal site.
 {% endhint %}
 
+### 5 September 2023
+
+* Changed formatting of[ **Go to Optimal**](go-to-optimal.md) to provide more instructions on site access.
+
 ### 25 August 2023
 
 * Created this changelog.
