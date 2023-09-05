@@ -1,6 +1,5 @@
 # ▶ Go to Optimal
 
-Click the button below to be redirected to Optimal \
-([dub.sh/optimal](https://dub.sh/optimal))
+Optimal can always be accessed from the shortlink [**dub.sh/optimal**](https://dub.sh/optimal), or by visiting [**dub.sh/gabe**](https://dub.sh/gabe)**,** finding the Optimal section, and clicking "Visit Optimal." You can also use the hyperlink below:
 
-{% embed url="https://dub.sh/optimal" %}
+### [Visit Optimal](https://dub.sh/optimal)
