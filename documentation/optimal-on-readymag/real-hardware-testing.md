@@ -37,7 +37,8 @@ NVIDIA GeForce RTX 3060, Intel Core i7 12900, 16GB-DDR4@3000MHz\
 _for Optimal site development, AltServer on Windows testing_
 
 {% hint style="info" %}
-\*Devices labeled as being used for "supervised" testing are provided to the Optimal development for the purpose of academically advised usage by Shenandoah University. Tools, testing, and installation performed by Optimal team are compliant with the Shenandoah University IT Policy as stipulated under terms of Personal Use. Shenandoah University does not endorse Optimal or any other project or person it relates to.
+\*Devices labeled as being used for "supervised" testing are provided to the Optimal development for the purpose of academically advised usage by Shenandoah University. The SU IT Policy allows for usage of Optimal as acceptable "personal use."\
+See[ **Legal Terms>Supervised Device Testing Disclaimer**](oor-legal-terms.md#supervised-device-testing-disclaimer) for more information.
 {% endhint %}
 
 **Android Devices**\
