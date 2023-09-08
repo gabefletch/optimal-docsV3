@@ -52,7 +52,7 @@ Not doing so may result in termination of a user's access to Optimal domains via
 \
 Users are inherently subject to the terms of service, privacy policy, and any other legal guidelines established by the legal entities that own modified products accessible via Optimal. Some projects accessible via Optimal also have their own licenses that users are inherently subject to should they decide to use said projects.&#x20;
 
-## Supervised Device Testing Disclaimer
+## Supervised Devices & U.S. Code Title 17
 
 {% hint style="success" %}
 Added **Thursday, September 7th, 2023.**
@@ -72,11 +72,13 @@ The use of Optimal cannot be said to, without a reasonable doubt, "negatively af
 
 Optimal is also in compliance with the Shenandoah University IT Policy's extended Copyright Policy:
 
-> All members of the Shenandoah University community must comply with federal copyright law (U.S. Code Title 17).Copyright infringement is defined as unauthorized possession or sharing of copyrighted materials, including but not limited to music, movies, computer software and games, videos or any other media which requires a license to possess. Sharing of copyrighted material without permission is a violation of the [Digital Millennium Copyright Act](https://www.copyright.gov/title17/92appb.html) (DMCA) and this policy. Both the entertainment and software industries actively monitor the Internet for possible copyright infringements with legal action becoming more common. The law requires the University to respond expeditiously when notified that a user is violating copyright law.\
+> All members of the Shenandoah University community must comply with federal copyright law (U.S. Code Title 17). Copyright infringement is defined as unauthorized possession or sharing of copyrighted materials, including but not limited to music, movies, computer software and games, videos or any other media which requires a license to possess. Sharing of copyrighted material without permission is a violation of the [Digital Millennium Copyright Act](https://www.copyright.gov/title17/92appb.html) (DMCA) and this policy. Both the entertainment and software industries actively monitor the Internet for possible copyright infringements with legal action becoming more common. The law requires the University to respond expeditiously when notified that a user is violating copyright law.\
 > \
 > [Shenandoah University IT Policy, "Copyright Policy"](https://sites.google.com/a/su.edu/itpolicy/home#h.p\_pdzDds\_MD6lH)
 
 Optimal does not host any of the downloads curated on its main site. Instead, Optimal provides direct links obtained through CDN parsing of other sites known to host the specified file(s). See the [**Optimal General Disclaimer**](oor-legal-terms.md#optimal-general-disclaimer) for more information. \
 \
 As a publicly accessible operating site hosted, created, and maintained in the United States, Optimal must be compliant with United States Copyright Law to exist, regardless of further stipulation set by Shenandoah University. Any changes made by Shenandoah University to their IT Policy will be respected by Optimal for use of supervised devices stipulated at [**Documentation>Real-Hardware Testing.**](real-hardware-testing.md)
+
+It could seem arguable that Optimal is not compliant with U.S. Code Title 17 or the DMCA because it gives users access to software that has been modified to be accessible without a license, prior payment intended by its owner, or other monetary requirement set forth by the software owner. It should be known that Optimal is only an interface that streamlines the process of users accessing the modified software that is curated. Optimal exists in order to provide users with app sources that have been thoroughly tested to function properly and be free of malware. Should the end user decide to dedicate enough time, Optimal would not be needed at all in order to access the modified software that it curates. It is for these reasons that Optimal is in fact compliant with U.S. Code Title 17 and the DMCA.
 
