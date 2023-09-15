@@ -8,7 +8,7 @@ description: Meet who makes Optimal and who makes it all possible.
 
 Founder\
 Lead Developer \
-[Visit Gabe's portfolio site](https://bit.ly/gabe-fletcher)
+[Visit Gabe's portfolio site](https://dub.sh/gabe)
 
 ## Ella Hawkins
 
