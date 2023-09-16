@@ -10,13 +10,13 @@ This article was written pre-emptively regarding the release of a future version
 \- Android Studio Flamingo (Virtual Google Pixel 4, Android 13)\
 _for Android app testing_
 
-**iPhones**\
-\- iPhone 14 Pro Max (A2651) (iOS 16.4 - 16.5)\
+**iOS Devices**\
+\- iPhone 14 Pro Max (A2651) (iOS 16.4 - 17)\
 \- iPhone 14 (A2649) (iOS 16.5)\
 _for AltStore on iOS testing_\
 
 
-**iPads**
+**iPadOS Devices**
 
 \- iPad Pro 12.9' (3rd Generation) (A1876) (iPadOS 16 - 16.6)\
 _for AltStore on iPadOS field testing._\
@@ -29,6 +29,10 @@ _for AltStore on Supervised iPadOS testing\*_
 _for AltServer on macOS testing_\
 \- MacBook Air (M2, 2022)\
 _for AltServer on Supervised macOS testing\*_
+
+**watchOS** **Devices**\
+\- Apple Watch Nike Series 5 (44mm, GPS) (watchOS 9.6.1 - 10) (A2093)\
+_for Apple Extended Ecosystem Compatibility testing_
 
 **Windows Devices**
 
