@@ -9,6 +9,11 @@ This changelog was started on 25 August 2023 and has no data prior to this date.
 Docs v3 does not use sequential versioning for every update like the main Optimal site.
 {% endhint %}
 
+### 24 September 2023
+
+* Updates image formatting and adds content about Optimal v11 to the [**Optimal History**](optimal-history.md) page.
+* Updates the image formatting of the Docs wordmark on the [**Welcome** ](./)page.
+
 ### 15 September 2023
 
 * Updated the URL to Gabe's portfolio site to go to the correct destination on the [**Optimal Team**](optimal-team.md) page.

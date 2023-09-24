@@ -78,11 +78,11 @@ All of the GAH branding was removed and replaced with an early version of the Op
 
 ## Optimal Branding: v1.0 to v6.0
 
-<figure><img src=".gitbook/assets/optimal-summerwave-wordmark.png" alt=""><figcaption><p>A variation of the first Optimal logo.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/optimal-summerwave-wordmark.png" alt="" width="563"><figcaption><p>A variation of the first Optimal logo.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/optimal3wordmark-trans.png" alt=""><figcaption><p>The Optimal logo used for v3.0 - v4.0</p></figcaption></figure>
+<figure><img src=".gitbook/assets/optimal3wordmark-trans.png" alt="" width="563"><figcaption><p>The Optimal logo used for v3.0 - v4.0</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/wordmark-5-trans.png" alt=""><figcaption><p>The Optimal logo used for v5.0 - v6.0</p></figcaption></figure>
+<figure><img src=".gitbook/assets/wordmark-5-trans.png" alt="" width="563"><figcaption><p>The Optimal logo used for v5.0 - v6.0</p></figcaption></figure>
 
 ## Temporary End of Life
 
@@ -90,7 +90,7 @@ With the release of a very experimental v6.0 release on Carrd, Optimal had a dra
 
 ### The End of Life Message on Optimal after v6.0:
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-01-13 at 6.35.28 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2022-01-13 at 6.35.28 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Moving Forward - v7.0
 
@@ -98,7 +98,7 @@ v7.0 was released about 3 months after the v6.0 end of life period. It featured 
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/optimal-wordmark-9-gr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/optimal-wordmark-9-gr.png" alt="" width="563"><figcaption><p>The Optimal logo used for v8.0 - v9.0</p></figcaption></figure>
 
 </div>
 
@@ -114,3 +114,14 @@ Optimal now uses the dub.sh link shortening service rather than bit.ly because i
 
 UI elements on Readymag can be much more complex and appealing than on Carrd or Wix and this greatly changes the user experience of Optimal.&#x20;
 
+## A Third Introduction - v11.0
+
+The 11th iteration of Optimal has gone through three major changes throughout its development, referred to internally as "prestieges." A critical goal of v11 is to introduce a site that has no third party branding, and to generally strive for more professionalism when shipping the site.
+
+
+
+<figure><img src=".gitbook/assets/v11p3-wordmark-trans.png" alt="" width="563"><figcaption><p>The current Optimal logo used for v11.0</p></figcaption></figure>
+
+v11 introduces a third element to the Optimal site along with iOS and Android apps and games: Movies and TV. v11 achieves this through an integration with Movie-Web. The [**dub.sh/optimaltv**](https://dub.sh/optimaltv) shortlink will be used. green/blue gradient will also be changed to represent this major addition and emphazise the three colors that make up the gradient to symbolize the three main components of Optimal.
+
+<figure><img src=".gitbook/assets/tv-wordmark.png" alt="" width="563"><figcaption><p>The Optimal TV logo.</p></figcaption></figure>
