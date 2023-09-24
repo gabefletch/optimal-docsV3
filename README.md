@@ -1,6 +1,20 @@
 ---
-cover: .gitbook/assets/docs-3.2-banner.png
+cover: .gitbook/assets/11p3-docs-banner.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome to Optimal Docs
