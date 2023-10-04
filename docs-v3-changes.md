@@ -9,6 +9,12 @@ This changelog was started on 25 August 2023 and has no data prior to this date.
 Docs v3 does not use sequential versioning for every update like the main Optimal site.
 {% endhint %}
 
+### 4 October 2023
+
+* Alters the Documentation section to separate previous current pages to the new [**Legacy v10**](documentation/optimal-on-readymag/) or [**Legacy v0-v9**](documentation/legacy/) page groups.
+* Adds a new [**v11 Domain Chart**](documentation/v11-domain-chart.md) to be current for legal terms; changes legal term links to direct to this new page.
+* Changes logo on the [**Welcome**](./) page to be "hero" length rather than "full" length for better image consistency across desktop and mobile.
+
 ### 24 September 2023
 
 * Updates image formatting and adds content about Optimal v11 to the [**Optimal History**](optimal-history.md) page.
