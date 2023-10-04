@@ -14,6 +14,8 @@ Docs v3 does not use sequential versioning for every update like the main Optima
 * Alters the Documentation section to separate previous current pages to the new [**Legacy v10**](documentation/optimal-on-readymag/) or [**Legacy v0-v9**](documentation/legacy/) page groups.
 * Adds a new [**v11 Domain Chart**](documentation/v11-domain-chart.md) to be current for legal terms; changes legal term links to direct to this new page.
 * Changes logo on the [**Welcome**](./) page to be "hero" length rather than "full" length for better image consistency across desktop and mobile.
+* Adds header links: "Go to Optimal" (dub.sh/optimal); "Site Status" (dub.sh/optimal-status); "v11 Github" (dub.sh/optimal-github); "RVBA Github" (dub.sh/rvba)
+* Changes sitewide accent color to better match logo colors
 
 ### 24 September 2023
 
