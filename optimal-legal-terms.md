@@ -12,7 +12,7 @@ Optimal, found at the shortlink [dub.sh/optimal](https://dub.sh/optimal), is a w
 
 All visual content on the site was produced by Gabe Fletcher, with the exception of copyrighted logos/icons, such as the YouTube logo, Twitch logo, and etc.&#x20;
 
-The downloads provided on the Optimal site redirect users to a respective third party site that is not in affiliation with Optimal nor are they an Optimal URL. Documentation for what is considered an Optimal URL, also referred to as an Optimal Domain, can be found [here](oor-site-structure.md#subdomains-and-redirects-chart). Optimal was designed with the purpose of circumventing a user's need to manually browse ad-ridden sites for modified apps, and provides a direct download to such software using content delivery network parsing.&#x20;
+The downloads provided on the Optimal site redirect users to a respective third party site that is not in affiliation with Optimal nor are they an Optimal URL. Documentation for what is considered an Optimal URL, also referred to as an Optimal Domain, can be found [here](documentation/legacy-v10/v10-site-structure.md#subdomains-and-redirects-chart). Optimal was designed with the purpose of circumventing a user's need to manually browse ad-ridden sites for modified apps, and provides a direct download to such software using content delivery network parsing.&#x20;
 
 To reiterate, absolutely none of the content that can be accessed via Optimal has been created by Optimal contributors or its developer Gabe Fletcher, as stipulated by each app descriptor on the Optimal site.&#x20;
 
@@ -46,7 +46,7 @@ Last updated **Tuesday, May 23rd, 2023.**&#x20;
 Additional information was added to the [Optimal Domains list](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/oor-site-structure#subdomains-and-redirects-chart) on **Thursday, March 9th, 2023.**
 {% endhint %}
 
-By accessing an Optimal domain, as defined [here](oor-site-structure.md#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
+By accessing an Optimal domain, as defined [here](documentation/legacy-v10/v10-site-structure.md#subdomains-and-redirects-chart), you agree to refrain from copying, modifying, downloading, distributing, or otherwise infringing upon the ownership of the content on those domains in any manner seen as having done so by the owner of those domains, Gabe Fletcher.
 
 Not doing so may result in termination of a user's access to Optimal domains via IP address blacklisting or any method seen suitable by the domain owner. \
 \
@@ -62,7 +62,7 @@ Optimal's Lead Developer, Gabe Fletcher, and Head of iOS/iPadOS Quality Assuranc
 
 This disclaimer should also reasonably apply to any academic institution that allows for students to freely download executable software to devices running Windows, macOS, iOS, iPadOS, or Android.
 
-Some devices found on the [**Documentation>Real-Hardware Testing**](real-hardware-testing.md) page are labeled as "Supervised" devices. This means that they have a supervision profile installed that cannot be removed or altered by the end user of the device. These devices are managed remotely by Shenandoah University and as such have their usage bound to Shenandoah University's IT Policy. The tools, testing, and installation performed by members of Optimal Team are compliant with Shenandoah University's IT Policy as stipulated by the heading, "Acceptable Use and Prohibited Conduct," Section "Personal Use":
+Some devices found on the [**Documentation>Real-Hardware Testing**](documentation/real-hardware-testing.md) page are labeled as "Supervised" devices. This means that they have a supervision profile installed that cannot be removed or altered by the end user of the device. These devices are managed remotely by Shenandoah University and as such have their usage bound to Shenandoah University's IT Policy. The tools, testing, and installation performed by members of Optimal Team are compliant with Shenandoah University's IT Policy as stipulated by the heading, "Acceptable Use and Prohibited Conduct," Section "Personal Use":
 
 > University IT equipment is primarily for education and business use to assist all users in the performance of their jobs and educational pursuits. Limited, occasional, or incidental use of university IT resources for personal, non-business/education purposes is understandable and acceptable, and all such use should be done in a manner that does not negatively affect the systems' use for their educational and/or business purposes. However, all users are expected to demonstrate a sense of responsibility and not abuse this privilege.\
 > \
@@ -76,9 +76,9 @@ Optimal is also in compliance with the Shenandoah University IT Policy's extende
 > \
 > [Shenandoah University IT Policy, "Copyright Policy"](https://sites.google.com/a/su.edu/itpolicy/home#h.p\_pdzDds\_MD6lH)
 
-Optimal does not host any of the downloads curated on its main site. Instead, Optimal provides direct links obtained through CDN parsing of other sites known to host the specified file(s). See the [**Optimal General Disclaimer**](oor-legal-terms.md#optimal-general-disclaimer) for more information. \
+Optimal does not host any of the downloads curated on its main site. Instead, Optimal provides direct links obtained through CDN parsing of other sites known to host the specified file(s). See the [**Optimal General Disclaimer**](optimal-legal-terms.md#optimal-general-disclaimer) for more information. \
 \
-As a publicly accessible operating site hosted, created, and maintained in the United States, Optimal must be compliant with United States Copyright Law to exist, regardless of further stipulation set by Shenandoah University. Any changes made by Shenandoah University to their IT Policy will be respected by Optimal for use of supervised devices stipulated at [**Documentation>Real-Hardware Testing.**](real-hardware-testing.md)
+As a publicly accessible operating site hosted, created, and maintained in the United States, Optimal must be compliant with United States Copyright Law to exist, regardless of further stipulation set by Shenandoah University. Any changes made by Shenandoah University to their IT Policy will be respected by Optimal for use of supervised devices stipulated at [**Documentation>Real-Hardware Testing.**](documentation/real-hardware-testing.md)
 
 It could seem arguable that Optimal is not compliant with U.S. Code Title 17 or the DMCA because it gives users access to software that has been modified to be accessible without a license, prior payment intended by its owner, or other monetary requirement set forth by the software owner. It should be known that Optimal is only an interface that streamlines the process of users accessing the modified software that is curated. Optimal exists in order to provide users with app sources that have been thoroughly tested to function properly and be free of malware. Should the end user decide to dedicate enough time, Optimal would not be needed at all in order to access the modified software that it curates. It is for these reasons that Optimal is in fact compliant with U.S. Code Title 17 and the DMCA.
 

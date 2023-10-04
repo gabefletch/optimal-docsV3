@@ -20,6 +20,6 @@ This is a limitation placed by Apple, not a mistake from Optimal or AltStore. No
 
 **Why are there significantly less Optimal apps available for iPhone?**
 
-[**Real-hardware testing**](../documentation/optimal-on-readymag/real-hardware-testing.md) became available to Optimal Team in early 2023. This means that apps can be tested on a real iPhone rather than through development environments on Xcode and Simulator. The result is that Optimal Team has not had the opportunity to test for a comparitively large amount of custom apps like on Android. Apple's closed-source ecosystem also makes it considerably difficult to support with a project like Optimal that was originally only intended for Android.&#x20;
+[**Real-hardware testing**](../documentation/real-hardware-testing.md) became available to Optimal Team in early 2023. This means that apps can be tested on a real iPhone rather than through development environments on Xcode and Simulator. The result is that Optimal Team has not had the opportunity to test for a comparitively large amount of custom apps like on Android. Apple's closed-source ecosystem also makes it considerably difficult to support with a project like Optimal that was originally only intended for Android.&#x20;
 
 **Have more questions?** [**Reach out to Optimal's Senior Developer Gabe Fletcher**](https://dub.sh/gabe)**.**

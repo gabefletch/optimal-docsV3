@@ -7,6 +7,7 @@
 * [ℹ What is Optimal?](what-is-optimal.md)
 * [📖 Optimal History](optimal-history.md)
 * [🛠 Optimal Team](optimal-team.md)
+* [⚖ Optimal Legal Terms](optimal-legal-terms.md)
 * [📜 Docs v3 Changes](docs-v3-changes.md)
 
 ## Guides
@@ -23,12 +24,12 @@
 
 ## Documentation
 
-* [🟢 Optimal on Readymag](documentation/optimal-on-readymag/README.md)
-  * [⚖ Optimal Legal Terms](documentation/optimal-on-readymag/oor-legal-terms.md)
-  * [📗 OoR Changelog](documentation/optimal-on-readymag/oor-changelog.md)
-  * [🚧 OoR Site Structure](documentation/optimal-on-readymag/oor-site-structure.md)
-  * [📲 Real-Hardware Testing](documentation/optimal-on-readymag/real-hardware-testing.md)
+* [🏁 v11 Site Structure](documentation/v11-site-structure.md)
+* [📲 Real-Hardware Testing](documentation/real-hardware-testing.md)
 * [🔵 Docs v3](documentation/docs-v3.md)
-* [🔴 Legacy](documentation/legacy/README.md)
-  * [📕 OoC Changelog](documentation/legacy/ooc-changelog.md)
-  * [🔺 Legacy Docs](documentation/legacy/legacy-docs.md)
+* [🟠 Legacy v10](documentation/legacy-v10/README.md)
+  * [📗 v10 Changelog](documentation/legacy-v10/v10-changelog.md)
+  * [🚧 v10 Site Structure](documentation/legacy-v10/v10-site-structure.md)
+* [🔴 Legacy v0-v9](documentation/legacy-v0-v9/README.md)
+  * [📕 v0-v9 Changelog](documentation/legacy-v0-v9/v0-v9-changelog.md)
+  * [🔺 Legacy Docs](documentation/legacy-v0-v9/legacy-docs.md)
