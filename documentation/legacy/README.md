@@ -7,7 +7,7 @@ This section covers documentation for content and features based around the Opti
 #### See Documentation for:
 
 * Legacy Optimal site (on Carrd, v9.3.1.6 and below)
-* [Optimal on Carrd Changelog Archive (v9.3.1.6 and below)](v0-v9-changelog.md)
+* [Optimal on Carrd Changelog Archive (v9.3.1.6 and below)](ooc-changelog.md)
 * Optimal Docs v1 (Discord server)
 * Optimal Docs v2 (YNAW)
 * Optimal Lab (a discontinued Optimal on Carrd feature)

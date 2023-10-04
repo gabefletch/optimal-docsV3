@@ -2,7 +2,7 @@
 description: The changelog as it was written on Optimal on Carrd.
 ---
 
-# 📕 OoC Changelog
+# 📕 v0-v9 Changelog
 
 {% hint style="info" %}
 OoC is the abbreviation for Optimal on Carrd.

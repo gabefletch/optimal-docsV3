@@ -2,14 +2,14 @@
 
 {% hint style="info" %}
 This page includes documentation for Optimal Docs v3, powered by GitBook.\
-For documentation on Docs v2 and below see [Legacy Docs](legacy-v0-v9/legacy-docs.md).
+For documentation on Docs v2 and below see [Legacy Docs](legacy/legacy-docs.md).
 {% endhint %}
 
 ## Differences from Docs v2
 
 Docs v2 was powered by You Need A Wiki by developer Grant Kiely. It was used because not many sites were made using YNAW at the time that Docs v2 was being built and it offered a simple UI editable via a Google Drive directory.&#x20;
 
-See [Legacy Docs](legacy-v0-v9/legacy-docs.md) for more about Docs v2.&#x20;
+See [Legacy Docs](legacy/legacy-docs.md) for more about Docs v2.&#x20;
 
 ## v3 Frontend
 

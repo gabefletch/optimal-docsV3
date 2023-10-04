@@ -41,6 +41,6 @@ _for Optimal site development, AltServer on Windows testing_
 
 {% hint style="info" %}
 \*Devices labeled as being used for "supervised" testing are provided to the Optimal development for the purpose of academically advised usage by Shenandoah University. The SU IT Policy allows for usage of Optimal as acceptable "personal use."\
-See[ **Legal Terms>Supervised Device Testing Disclaimer**](../optimal-legal-terms.md#supervised-device-testing-disclaimer) for more information.
+See[ **Legal Terms>Supervised Device Testing Disclaimer**](oor-legal-terms.md#supervised-device-testing-disclaimer) for more information.
 {% endhint %}
 

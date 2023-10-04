@@ -1,4 +1,4 @@
-# 📗 OoR Changelog
+# 📗 v10 Changelog
 
 {% hint style="info" %}
 OoR is the abbreviation for Optimal on Readymag.
