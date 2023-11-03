@@ -10,16 +10,6 @@ Founder\
 Lead Developer \
 [Visit Gabe's portfolio site](https://dub.sh/gabe)
 
-## Ella Hawkins
-
-iOS/iPadOS Quality Assurance \
-Docs Editor\
-[Visit Ella's portfolio site](https://ellahawkins.me)
-
-## John Fdoul&#x20;
-
-Android Content Tester&#x20;
-
 ## Optimal is made possible by
 
 * [Readymag](https://readymag.com)
