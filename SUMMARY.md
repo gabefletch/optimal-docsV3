@@ -26,6 +26,7 @@
 
 * [🏁 v11 Site Structure](documentation/v11-site-structure.md)
 * [🔗 v11 Domain Chart](documentation/v11-domain-chart.md)
+* [v11 Changelog](documentation/v11-changelog.md)
 * [📲 Real-Hardware Testing](documentation/optimal-on-readymag/real-hardware-testing.md)
 * [🔵 Docs v3](documentation/docs-v3.md)
 * [🟠 Legacy v10](documentation/optimal-on-readymag/README.md)

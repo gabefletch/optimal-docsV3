@@ -14,11 +14,12 @@ Dub is an open-source link shortener designed by Steven Tey as a powerful altern
 
 </details>
 
-| Page                                 | Full Domain                                                                    | Shortlink                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Optimal v11                          | [optimal.dorik.io](https://optimal.dorik.io)                                   | [dub.sh/optimal](https://dub.sh/optimal)               |
-| Optimal Docs v3                      | [optimaldocs.gitbook.io](https://optimaldocs.gitbook.io)                       | [dub.sh/optimaldocs](https://dub.sh/optimaldocs)       |
-| <p>Optimal Status<br>(Hyperping)</p> | [optimalapps.hyperping.app](https://optimalapps.hyperping.app)                 | [dub.sh/optimal-status](https://dub.sh/optimal-status) |
-| Optimal v11 Github                   | [github.com/gabefletch/optimal-v11](https://github.com/gabefletch/optimal-v11) | [dub.sh/optimal-github](https://dub.sh/optimal-github) |
-| <p>Gabe's Site<br>(Optimal Dev)</p>  | [gabefletch.webflow.io](https://gabefletch.webflow.io)                         | [dub.sh/gabe](https://dub.sh/gabe)                     |
+| Page                                 | Full Domain                                                                    | Shortlink                                                |
+| ------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Optimal v11                          | TBA                                                                            | [dub.sh/optimal](https://dub.sh/optimal)                 |
+| Optimal Docs v3                      | [optimaldocs.gitbook.io](https://optimaldocs.gitbook.io)                       | [dub.sh/optimaldocs](https://dub.sh/optimaldocs)         |
+| <p>Optimal Status<br>(Hyperping)</p> | [optimalapps.hyperping.app](https://optimalapps.hyperping.app)                 | [dub.sh/optimal-status](https://dub.sh/optimal-status)   |
+| Optimal v11 Github                   | [github.com/gabefletch/optimal-v11](https://github.com/gabefletch/optimal-v11) | [dub.sh/optimal-github](https://dub.sh/optimal-github)   |
+| Optimal v11 Changes                  |                                                                                | [dub.sh/optimal-changes](https://dub.sh/optimal-changes) |
+| <p>Gabe's Site<br>(Optimal Dev)</p>  | [gabefletch.webflow.io](https://gabefletch.webflow.io)                         | [dub.sh/gabe](https://dub.sh/gabe)                       |
 
