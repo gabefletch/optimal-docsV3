@@ -35,7 +35,8 @@ Lead Developer \
 * Spotify++ w/Sposify Developers:\
   \- julioverne\
   \- Qn\_&#x20;
-* Optimal QR Sticker supporters:\
+* Optimal QR Sticker (1st Gen) supporters:\
+  \- Ella Hawkins\
   \- Madison Yousif \
   \- Riley Willis\
   \- Cara Trotter \
