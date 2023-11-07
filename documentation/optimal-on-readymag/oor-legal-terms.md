@@ -27,14 +27,14 @@ It is entirely the user's choice to engage in any activity that involves modifyi
 ## Optimal Privacy Policy&#x20;
 
 {% hint style="success" %}
-Last updated **Tuesday, May 23rd, 2023.**&#x20;
+Last updated **Tuesday, November 7th, 2023.**&#x20;
 {% endhint %}
 
-Optimal collects no user data outside of the required data collected by our host, Webflow.
+Optimal collects no user data outside of the required data collected by our host, Framer.
 
 Optimal developers and contributors have no access to this aforementioned data. Optimal may occasionally request data to be voluntarily expressed by users in a form, but collects no data without their prior knowledge or consent, with the exception of browser cookies that allow Optimal sites to function. User data contained within cookies are not shared with any third party under any circumstances.
 
-The Webflow privacy policy can be viewed at [https://webflow.com/legal/privacy](https://webflow.com/legal/privacy).
+The Framer privacy statement can be viewed at [https://www.framer.com/legal/privacy-statement/](https://www.framer.com/legal/privacy-statement/)
 
 ## Optimal Terms of Service
 
