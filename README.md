@@ -19,8 +19,9 @@ layout:
 
 # 👋 Welcome to Optimal Docs
 
-Optimal Docs answers all your questions about the Optimal project by Gabe Fletcher.\
-Start by clicking a page to the left (or tapping in the upper left on a mobile device).
+{% hint style="danger" %}
+<mark style="color:red;">**Optimal Docs will have a new home on the web in holiday 2023.**</mark>** We're transitioning to our own self-hosted documentation site for Optimal Docs v4 alongside the upcoming launch of Optimal v11 that will share the same domain. Recent major changes with GitBook have also encouraged this transition. Thank you for continuing to support the Optimal Project.**&#x20;
+{% endhint %}
 
 ### Good Pages to Start With:
 
